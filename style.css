@@ -1,0 +1,28 @@
+body{
+    background-image:url('bgimage.jpg');
+    /* background-color: aqua; */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.login{
+    background-color: rgba(77, 41, 41, 0.5);
+    width: 280px;
+    height: 300px;
+    margin-top: 180px;
+    margin-left: 500px;
+    border-radius: 15px;
+}
+.data{
+    padding: 10px;
+    color: beige;
+    text-shadow: 2px 2px red;
+    
+}
+#f{
+    border-radius: 8px;
+}
+button{
+    /* color: blanchedalmond; */
+    background-color: chocolate;
+}
